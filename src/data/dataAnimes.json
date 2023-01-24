@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Blue lock",
+        "description": "sports, thriller, adventure, drama",
+        "imgUrl": "/Imgs/img1.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Chainsaw man",
+        "description": "action, comedy, drama, horror",
+        "imgUrl": "/Imgs/img2.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Jujutsu Kaisen",
+        "description": "action, comedy, drama, horror",
+        "imgUrl": "/Imgs/img3.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Kimetsu no Yaiba",
+        "description": "action, adventure, drama, dark Fantasy",
+        "imgUrl": "/Imgs/img4.jpg"      
+    },
+
+    {
+        "id": 5,
+        "name": "Mushoku Tensei",
+        "description": "action, adventure, drama",
+        "imgUrl": "/Imgs/img5.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Onepunch man",
+        "description": "action, adventure, comedy",
+        "imgUrl": "/Imgs/img6.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Vinland Saga",
+        "description": "action, adventure, drama, historical",
+        "imgUrl": "/Imgs/img7.jpg"
+    }
+]
