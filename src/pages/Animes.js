@@ -6,7 +6,7 @@ import "./Animes.css"
 export default function Animes () {
 
     return (
-        <div className="animes-container">
+        <div>
             <h1>Animes of 2023</h1>
             <Row md={2} xs={1} lg={3} className="g-3">
                 {dataAnimes.map(item => (

@@ -4,7 +4,8 @@ import {Card} from 'react-bootstrap'
 
 export default function AnimeItems({id,name,description,imgUrl}) {
   return (
-    <Card>
+    <div className='mb-5'>
+    <Card >
             <Card.Img variant="top" src={imgUrl} height="300px" style={{ objectFit:"cover" }}></Card.Img>
             <Card.Body className='d-flex flex-column'>
                 <Card.Title className='d-flex justify-content-between align-items-baseline mb-4'>
@@ -13,5 +14,6 @@ export default function AnimeItems({id,name,description,imgUrl}) {
                 </Card.Title>
             </Card.Body>
     </Card>
+    </div>
   )
 }

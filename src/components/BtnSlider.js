@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Slider.css"
+import "./styles/Slider.css"
 import leftArrow from "./icons/LeftArrow.svg"
 import rightArrow from "./icons/RightArrow.svg"
 
